@@ -1,0 +1,57 @@
+minHeight: Math.round(Dimensions.get('window').height)
+
+<Image source={imageSource} style={styles.compoImages} />
+
+
+
+<ItemComponent  title="T-Shirt"
+         imageSource={require('../Screen/Images/t-shirt.png')}
+         /> 
+     
+
+ 
+        <ItemComponent  title="Pant"
+         imageSource={require('../Screen/Images/pant.png')}
+         /> 
+     
+
+ 
+        <ItemComponent  title="Formal- Pant"
+         imageSource={require('../Screen/Images/formalpant.png')}
+         /> 
+     
+
+ 
+        <ItemComponent  title="Cassuals"
+         imageSource={require('../Screen/Images/cassuals.png')}
+         /> 
+     
+
+ 
+        <ItemComponent  title="Belts"
+         imageSource={require('../Screen/Images/belt.png')}
+         /> 
+     
+
+ 
+        <ItemComponent  title="Shoe"
+         imageSource={require('../Screen/Images/shoe.png')}
+         /> 
+     
+
+ 
+        <ItemComponent  title="Wallet"
+         imageSource={require('../Screen/Images/wallet.png')}
+         /> 
+     
+
+ 
+        <ItemComponent  title="Watch"
+         imageSource={require('../Screen/Images/watch.png')}
+         /> 
+     
+
+ 
+        <ItemComponent  title="Shorts"
+         imageSource={require('../Screen/Images/shorts.png')}
+         /> 
